@@ -1,6 +1,6 @@
 module github.com/Alliera/logging
 
-go 1.17
+go 1.24.9
 
 require github.com/stretchr/testify v1.7.0
 
