@@ -2,7 +2,7 @@ module github.com/Alliera/logging
 
 go 1.24.9
 
-require github.com/stretchr/testify v1.7.0
+require github.com/stretchr/testify v1.11.1
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
