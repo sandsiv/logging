@@ -1,4 +1,4 @@
-module github.com/Alliera/logging
+module github.com/sandsiv/logging
 
 go 1.24.9
 
