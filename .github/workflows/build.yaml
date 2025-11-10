@@ -1,4 +1,4 @@
-name: Build llm-handler docker image v3
+name: Run go test
 
 on:
   push:
